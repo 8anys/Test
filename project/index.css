@@ -320,7 +320,7 @@ footer {
 .pricing__grid {
    
   display: grid;
-  gap: 150px;
+  gap: 50px;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   display: flex;
   flex-direction: row;
